@@ -1,2 +1,3 @@
-# pf-book.github.io
-The Book of PF (3rd Edition) : A No-Nonsense Guide to the OpenBSD Firewall
+# Книга о PF: руководство по OpenBSD Firewall :blowfish:
+
+<img src="img/the_book_of_pf.jpg" height="466">
