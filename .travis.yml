@@ -1,0 +1,6 @@
+os:      linux
+dist:    xenial
+git:
+  depth: false
+script:
+  - bash broken_links.sh
